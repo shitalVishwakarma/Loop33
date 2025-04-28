@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Loop33\Loop33\bin\Debug\net9.0\Loop33.exe
+C:\Users\ADMIN\source\repos\Loop33\Loop33\bin\Debug\net9.0\Loop33.deps.json
+C:\Users\ADMIN\source\repos\Loop33\Loop33\bin\Debug\net9.0\Loop33.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Loop33\Loop33\bin\Debug\net9.0\Loop33.dll
+C:\Users\ADMIN\source\repos\Loop33\Loop33\bin\Debug\net9.0\Loop33.pdb
+C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\Loop33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\Loop33.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\Loop33.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\Loop33.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\Loop33.dll
+C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\refint\Loop33.dll
+C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\Loop33.pdb
+C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\Loop33.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\ref\Loop33.dll

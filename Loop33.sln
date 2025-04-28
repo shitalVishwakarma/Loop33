@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop33", "Loop33\Loop33.csproj", "{78FD8C36-0E95-412B-8C8F-E1860988FF5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78FD8C36-0E95-412B-8C8F-E1860988FF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FD8C36-0E95-412B-8C8F-E1860988FF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FD8C36-0E95-412B-8C8F-E1860988FF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FD8C36-0E95-412B-8C8F-E1860988FF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
