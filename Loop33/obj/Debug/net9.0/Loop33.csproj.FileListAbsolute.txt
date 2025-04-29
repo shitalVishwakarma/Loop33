@@ -12,3 +12,4 @@ C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\refint\Loop33.dll
 C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\Loop33.pdb
 C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\Loop33.genruntimeconfig.cache
 C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\ref\Loop33.dll
+C:\Users\ADMIN\source\repos\Loop33\Loop33\obj\Debug\net9.0\Loop33.sourcelink.json
